@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       992: {
         slidesPerView: 5,
-        spaceBetween: 20
+        spaceBetween: 50
       }
     }
   });
